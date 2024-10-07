@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "live-server": "^1.2.0",
+    "server": "^0.0.3",
+    "three": "^0.169.0"
+  },
+  "scripts": {
+    "server": "live-server src"
+  }
+}
